@@ -1,0 +1,15 @@
+current directory: /home/diogo/Documentos/ROR/api-ror/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210314-46751-1tebm1p.rb extconf.rb
+creating Makefile
+
+current directory: /home/diogo/Documentos/ROR/api-ror/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/diogo/Documentos/ROR/api-ror/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/diogo/Documentos/ROR/api-ror/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210314-46751-1p6iphh/bootsnap
